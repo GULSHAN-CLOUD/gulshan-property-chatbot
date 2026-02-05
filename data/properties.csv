@@ -1,0 +1,31 @@
+property_id,property_name,property_type,bhk,price_min,price_max,city,state,location,status,developer
+P001,Rosetta Stone Honey Hills Villa,Villa,2,5120000,5120000,Nagpur,Maharashtra,Amravati Road,Available,Honey Hills Infra
+P002,Om Shiv Kailasa,Apartment,2.5,4780000,6780000,Nagpur,Maharashtra,Wardha Road,Available,Om Shiv Builders
+P003,MIHAN Residency Phase 1,Apartment,2,3800000,5200000,Nagpur,Maharashtra,MIHAN,Upcoming,MIHAN Developers
+P004,MIHAN Residency Phase 2,Apartment,3,5200000,7200000,Nagpur,Maharashtra,MIHAN,Available,MIHAN Developers
+P005,Trimurti Nagar Heights,Apartment,2,4200000,5800000,Nagpur,Maharashtra,Trimurti Nagar,Available,Trimurti Group
+P006,Manish Nagar Elite,Apartment,3,6000000,8200000,Nagpur,Maharashtra,Manish Nagar,Available,Elite Builders
+P007,Besa Premium Homes,Apartment,2,3900000,5400000,Nagpur,Maharashtra,Besa,Available,Besa Infra
+P008,Besa Luxury Villas,Villa,3,8500000,11000000,Nagpur,Maharashtra,Besa,Available,Besa Infra
+P009,Wardha Road Skyview,Apartment,2,4100000,5600000,Nagpur,Maharashtra,Wardha Road,Available,Skyline Group
+P010,Wardha Road Skyview Plus,Apartment,3,5800000,7600000,Nagpur,Maharashtra,Wardha Road,Available,Skyline Group
+P011,Amravati Road Greens,Apartment,1,2800000,3600000,Nagpur,Maharashtra,Amravati Road,Available,Greenfield Builders
+P012,Amravati Road Greens Plus,Apartment,2,3800000,5200000,Nagpur,Maharashtra,Amravati Road,Available,Greenfield Builders
+P013,Central Nagpur Residency,Apartment,2,4500000,6200000,Nagpur,Maharashtra,Dharampeth,Available,Central Infra
+P014,Central Nagpur Residency Lux,Apartment,3,6500000,8800000,Nagpur,Maharashtra,Dharampeth,Available,Central Infra
+P015,Medical Square Homes,Apartment,1,2600000,3400000,Nagpur,Maharashtra,Medical Square,Available,HealthCity Builders
+P016,Medical Square Homes Plus,Apartment,2,3600000,4800000,Nagpur,Maharashtra,Medical Square,Available,HealthCity Builders
+P017,Chatrapati Nagar Enclave,Apartment,2,4000000,5600000,Nagpur,Maharashtra,Chatrapati Nagar,Available,Enclave Group
+P018,Chatrapati Nagar Elite,Apartment,3,6200000,8500000,Nagpur,Maharashtra,Chatrapati Nagar,Available,Enclave Group
+P019,Narendra Nagar Residency,Apartment,2,4300000,5900000,Nagpur,Maharashtra,Narendra Nagar,Available,Narendra Infra
+P020,Narendra Nagar Residency Lux,Apartment,3,6600000,9000000,Nagpur,Maharashtra,Narendra Nagar,Available,Narendra Infra
+P021,Hingna Road Tech Homes,Apartment,1,2500000,3300000,Nagpur,Maharashtra,Hingna Road,Available,TechBuild
+P022,Hingna Road Tech Homes Plus,Apartment,2,3500000,4800000,Nagpur,Maharashtra,Hingna Road,Available,TechBuild
+P023,Hingna Road Tech Villas,Villa,3,7800000,9800000,Nagpur,Maharashtra,Hingna Road,Available,TechBuild
+P024,Mahalaxmi Nagar Flats,Apartment,2,3900000,5200000,Nagpur,Maharashtra,Mahalaxmi Nagar,Available,Mahalaxmi Infra
+P025,Mahalaxmi Nagar Elite,Apartment,3,6100000,8200000,Nagpur,Maharashtra,Mahalaxmi Nagar,Available,Mahalaxmi Infra
+P026,Somalwada Residency,Apartment,2,4100000,5600000,Nagpur,Maharashtra,Somalwada,Available,Somalwada Group
+P027,Somalwada Residency Plus,Apartment,3,6400000,8700000,Nagpur,Maharashtra,Somalwada,Available,Somalwada Group
+P028,Bajaj Nagar Comfort Homes,Apartment,1,2700000,3500000,Nagpur,Maharashtra,Bajaj Nagar,Available,Comfort Builders
+P029,Bajaj Nagar Comfort Plus,Apartment,2,3700000,4900000,Nagpur,Maharashtra,Bajaj Nagar,Available,Comfort Builders
+P030,Bajaj Nagar Comfort Elite,Apartment,3,5900000,7800000,Nagpur,Maharashtra,Bajaj Nagar,Available,Comfort Builders
