@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+.git/
+.cache/
+huggingface/
+data/
+datasets/
+models/
+node_modules/
+*.pt
+*.pth
+*.bin
+*.safetensors
