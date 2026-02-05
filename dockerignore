@@ -1,11 +1,43 @@
-venv/
+# python
 __pycache__/
-.env
-faiss_index/
-.qoder/
 *.pyc
 *.pyo
 *.pyd
-.db
-.sqlite3
-.DS_Store
+*.log
+
+# venv
+venv/
+.venv/
+
+# env secrets
+.env
+
+# git
+.git/
+.gitignore
+
+# caches
+.cache/
+pip-cache/
+**/.pytest_cache/
+**/.mypy_cache/
+
+# huggingface cache (very important)
+**/.cache/huggingface/
+**/.cache/torch/
+**/huggingface/
+
+# data artifacts (adjust if you use these)
+data/
+uploads/
+models/
+faiss_index/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# node (if any)
+node_modules/
+dist/
+build/
