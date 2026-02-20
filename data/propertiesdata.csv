@@ -1,0 +1,1001 @@
+property_id	property_name	property_type	bhk	price_min	price_max	city	state	location	status	developer
+P0001	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0002	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0003	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0004	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0005	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0006	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0007	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0008	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0009	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0010	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0011	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0012	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0013	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0014	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0015	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0016	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0017	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0018	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0019	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0020	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0021	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0022	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0023	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0024	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0025	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0026	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0027	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0028	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0029	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0030	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0031	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0032	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0033	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0034	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0035	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0036	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0037	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0038	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0039	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0040	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0041	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0042	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0043	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0044	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0045	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0046	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0047	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0048	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0049	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0050	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0051	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0052	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0053	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0054	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0055	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0056	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0057	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0058	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0059	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0060	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0061	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0062	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0063	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0064	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0065	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0066	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0067	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0068	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0069	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0070	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0071	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0072	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0073	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0074	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0075	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0076	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0077	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0078	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0079	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0080	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0081	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0082	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0083	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0084	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0085	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0086	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0087	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0088	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0089	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0090	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0091	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0092	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0093	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0094	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0095	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0096	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0097	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0098	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0099	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0100	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0101	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0102	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0103	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0104	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0105	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0106	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0107	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0108	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0109	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0110	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0111	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0112	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0113	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0114	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0115	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0116	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0117	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0118	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0119	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0120	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0121	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0122	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0123	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0124	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0125	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0126	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0127	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0128	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0129	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0130	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0131	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0132	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0133	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0134	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0135	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0136	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0137	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0138	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0139	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0140	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0141	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0142	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0143	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0144	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0145	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0146	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0147	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0148	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0149	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0150	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0151	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0152	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0153	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0154	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0155	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0156	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0157	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0158	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0159	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0160	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0161	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0162	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0163	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0164	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0165	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0166	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0167	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0168	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0169	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0170	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0171	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0172	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0173	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0174	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0175	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0176	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0177	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0178	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0179	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0180	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0181	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0182	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0183	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0184	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0185	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0186	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0187	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0188	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0189	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0190	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0191	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0192	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0193	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0194	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0195	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0196	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0197	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0198	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0199	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0200	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0201	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0202	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0203	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0204	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0205	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0206	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0207	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0208	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0209	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0210	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0211	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0212	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0213	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0214	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0215	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0216	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0217	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0218	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0219	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0220	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0221	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0222	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0223	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0224	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0225	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0226	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0227	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0228	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0229	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0230	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0231	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0232	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0233	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0234	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0235	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0236	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0237	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0238	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0239	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0240	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0241	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0242	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0243	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0244	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0245	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0246	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0247	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0248	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0249	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0250	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0251	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0252	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0253	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0254	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0255	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0256	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0257	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0258	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0259	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0260	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0261	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0262	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0263	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0264	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0265	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0266	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0267	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0268	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0269	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0270	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0271	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0272	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0273	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0274	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0275	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0276	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0277	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0278	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0279	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0280	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0281	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0282	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0283	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0284	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0285	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0286	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0287	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0288	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0289	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0290	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0291	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0292	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0293	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0294	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0295	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0296	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0297	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0298	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0299	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0300	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0301	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0302	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0303	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0304	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0305	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0306	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0307	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0308	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0309	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0310	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0311	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0312	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0313	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0314	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0315	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0316	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0317	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0318	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0319	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0320	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0321	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0322	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0323	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0324	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0325	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0326	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0327	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0328	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0329	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0330	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0331	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0332	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0333	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0334	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0335	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0336	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0337	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0338	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0339	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0340	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0341	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0342	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0343	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0344	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0345	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0346	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0347	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0348	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0349	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0350	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0351	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0352	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0353	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0354	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0355	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0356	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0357	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0358	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0359	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0360	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0361	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0362	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0363	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0364	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0365	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0366	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0367	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0368	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0369	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0370	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0371	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0372	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0373	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0374	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0375	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0376	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0377	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0378	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0379	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0380	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0381	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0382	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0383	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0384	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0385	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0386	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0387	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0388	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0389	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0390	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0391	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0392	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0393	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0394	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0395	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0396	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0397	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0398	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0399	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0400	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0401	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0402	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0403	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0404	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0405	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0406	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0407	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0408	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0409	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0410	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0411	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0412	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0413	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0414	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0415	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0416	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0417	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0418	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0419	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0420	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0421	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0422	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0423	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0424	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0425	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0426	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0427	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0428	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0429	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0430	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0431	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0432	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0433	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0434	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0435	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0436	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0437	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0438	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0439	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0440	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0441	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0442	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0443	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0444	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0445	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0446	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0447	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0448	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0449	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0450	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0451	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0452	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0453	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0454	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0455	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0456	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0457	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0458	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0459	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0460	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0461	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0462	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0463	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0464	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0465	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0466	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0467	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0468	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0469	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0470	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0471	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0472	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0473	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0474	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0475	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0476	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0477	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0478	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0479	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0480	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0481	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0482	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0483	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0484	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0485	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0486	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0487	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0488	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0489	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0490	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0491	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0492	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0493	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0494	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0495	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0496	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0497	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0498	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0499	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0500	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0501	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0502	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0503	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0504	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0505	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0506	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0507	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0508	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0509	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0510	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0511	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0512	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0513	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0514	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0515	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0516	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0517	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0518	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0519	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0520	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0521	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0522	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0523	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0524	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0525	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0526	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0527	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0528	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0529	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0530	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0531	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0532	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0533	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0534	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0535	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0536	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0537	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0538	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0539	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0540	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0541	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0542	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0543	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0544	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0545	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0546	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0547	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0548	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0549	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0550	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0551	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0552	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0553	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0554	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0555	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0556	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0557	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0558	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0559	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0560	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0561	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0562	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0563	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0564	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0565	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0566	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0567	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0568	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0569	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0570	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0571	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0572	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0573	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0574	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0575	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0576	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0577	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0578	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0579	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0580	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0581	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0582	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0583	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0584	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0585	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0586	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0587	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0588	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0589	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0590	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0591	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0592	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0593	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0594	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0595	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0596	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0597	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0598	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0599	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0600	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0601	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0602	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0603	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0604	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0605	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0606	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0607	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0608	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0609	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0610	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0611	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0612	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0613	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0614	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0615	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0616	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0617	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0618	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0619	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0620	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0621	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0622	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0623	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0624	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0625	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0626	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0627	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0628	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0629	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0630	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0631	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0632	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0633	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0634	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0635	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0636	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0637	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0638	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0639	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0640	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0641	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0642	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0643	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0644	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0645	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0646	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0647	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0648	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0649	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0650	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0651	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0652	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0653	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0654	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0655	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0656	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0657	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0658	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0659	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0660	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0661	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0662	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0663	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0664	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0665	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0666	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0667	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0668	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0669	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0670	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0671	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0672	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0673	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0674	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0675	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0676	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0677	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0678	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0679	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0680	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0681	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0682	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0683	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0684	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0685	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0686	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0687	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0688	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0689	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0690	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0691	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0692	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0693	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0694	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0695	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0696	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0697	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0698	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0699	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0700	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0701	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0702	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0703	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0704	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0705	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0706	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0707	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0708	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0709	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0710	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0711	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0712	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0713	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0714	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0715	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0716	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0717	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0718	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0719	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0720	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0721	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0722	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0723	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0724	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0725	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0726	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0727	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0728	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0729	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0730	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0731	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0732	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0733	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0734	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0735	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0736	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0737	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0738	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0739	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0740	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0741	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0742	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0743	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0744	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0745	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0746	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0747	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0748	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0749	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0750	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0751	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0752	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0753	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0754	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0755	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0756	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0757	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0758	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0759	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0760	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0761	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0762	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0763	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0764	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0765	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0766	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0767	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0768	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0769	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0770	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0771	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0772	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0773	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0774	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0775	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0776	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0777	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0778	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0779	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0780	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0781	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0782	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0783	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0784	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0785	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0786	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0787	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0788	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0789	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0790	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0791	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0792	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0793	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0794	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0795	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0796	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0797	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0798	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0799	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0800	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0801	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0802	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0803	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0804	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0805	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0806	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0807	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0808	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0809	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0810	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0811	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0812	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0813	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0814	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0815	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0816	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0817	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0818	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0819	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0820	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0821	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0822	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0823	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0824	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0825	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0826	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0827	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0828	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0829	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0830	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0831	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0832	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0833	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0834	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0835	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0836	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0837	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0838	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0839	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0840	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0841	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0842	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0843	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0844	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0845	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0846	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0847	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0848	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0849	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0850	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0851	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0852	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0853	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0854	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0855	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0856	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0857	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0858	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0859	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0860	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0861	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0862	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0863	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0864	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0865	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0866	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0867	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0868	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0869	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0870	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0871	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0872	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0873	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0874	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0875	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0876	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0877	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0878	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0879	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0880	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0881	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0882	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0883	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0884	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0885	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0886	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0887	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0888	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0889	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0890	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0891	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0892	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0893	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0894	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0895	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0896	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0897	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0898	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0899	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0900	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0901	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0902	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0903	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0904	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0905	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0906	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0907	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0908	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0909	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0910	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0911	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0912	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0913	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0914	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0915	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0916	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0917	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0918	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0919	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0920	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0921	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0922	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0923	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0924	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0925	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0926	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0927	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0928	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0929	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0930	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0931	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0932	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0933	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0934	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0935	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0936	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0937	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0938	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0939	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0940	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0941	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0942	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0943	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0944	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0945	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0946	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0947	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0948	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0949	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0950	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0951	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0952	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0953	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0954	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0955	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0956	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0957	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0958	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0959	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0960	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0961	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0962	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0963	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0964	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0965	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0966	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0967	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0968	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0969	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0970	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P0971	Amravati Road Greens	Apartment	1	2800000	3600000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0972	Amravati Road Greens Plus	Apartment	2	3800000	5200000	Nagpur	Maharashtra	Amravati Road	Available	Greenfield Builders
+P0973	Central Nagpur Residency	Apartment	2	4500000	6200000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0974	Central Nagpur Residency Lux	Apartment	3	6500000	8800000	Nagpur	Maharashtra	Dharampeth	Available	Central Infra
+P0975	Medical Square Homes	Apartment	1	2600000	3400000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0976	Medical Square Homes Plus	Apartment	2	3600000	4800000	Nagpur	Maharashtra	Medical Square	Available	HealthCity Builders
+P0977	Chatrapati Nagar Enclave	Apartment	2	4000000	5600000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0978	Chatrapati Nagar Elite	Apartment	3	6200000	8500000	Nagpur	Maharashtra	Chatrapati Nagar	Available	Enclave Group
+P0979	Narendra Nagar Residency	Apartment	2	4300000	5900000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0980	Narendra Nagar Residency Lux	Apartment	3	6600000	9000000	Nagpur	Maharashtra	Narendra Nagar	Available	Narendra Infra
+P0981	Hingna Road Tech Homes	Apartment	1	2500000	3300000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0982	Hingna Road Tech Homes Plus	Apartment	2	3500000	4800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0983	Hingna Road Tech Villas	Villa	3	7800000	9800000	Nagpur	Maharashtra	Hingna Road	Available	TechBuild
+P0984	Mahalaxmi Nagar Flats	Apartment	2	3900000	5200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0985	Mahalaxmi Nagar Elite	Apartment	3	6100000	8200000	Nagpur	Maharashtra	Mahalaxmi Nagar	Available	Mahalaxmi Infra
+P0986	Somalwada Residency	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0987	Somalwada Residency Plus	Apartment	3	6400000	8700000	Nagpur	Maharashtra	Somalwada	Available	Somalwada Group
+P0988	Bajaj Nagar Comfort Homes	Apartment	1	2700000	3500000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0989	Bajaj Nagar Comfort Plus	Apartment	2	3700000	4900000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0990	Bajaj Nagar Comfort Elite	Apartment	3	5900000	7800000	Nagpur	Maharashtra	Bajaj Nagar	Available	Comfort Builders
+P0991	Rosetta Stone Honey Hills Villa	Villa	2	5120000	5120000	Nagpur	Maharashtra	Amravati Road	Available	Honey Hills Infra
+P0992	Om Shiv Kailasa	Apartment	2.5	4780000	6780000	Nagpur	Maharashtra	Wardha Road	Available	Om Shiv Builders
+P0993	MIHAN Residency Phase 1	Apartment	2	3800000	5200000	Nagpur	Maharashtra	MIHAN	Upcoming	MIHAN Developers
+P0994	MIHAN Residency Phase 2	Apartment	3	5200000	7200000	Nagpur	Maharashtra	MIHAN	Available	MIHAN Developers
+P0995	Trimurti Nagar Heights	Apartment	2	4200000	5800000	Nagpur	Maharashtra	Trimurti Nagar	Available	Trimurti Group
+P0996	Manish Nagar Elite	Apartment	3	6000000	8200000	Nagpur	Maharashtra	Manish Nagar	Available	Elite Builders
+P0997	Besa Premium Homes	Apartment	2	3900000	5400000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0998	Besa Luxury Villas	Villa	3	8500000	11000000	Nagpur	Maharashtra	Besa	Available	Besa Infra
+P0999	Wardha Road Skyview	Apartment	2	4100000	5600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group
+P1000	Wardha Road Skyview Plus	Apartment	3	5800000	7600000	Nagpur	Maharashtra	Wardha Road	Available	Skyline Group

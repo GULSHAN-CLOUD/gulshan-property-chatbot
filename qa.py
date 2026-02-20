@@ -18,28 +18,28 @@ load_dotenv(override=True)
 if not os.getenv("GOOGLE_API_KEY"):
     raise RuntimeError("GOOGLE_API_KEY is NOT loaded inside uvicorn worker!")
 
-def ask(question: str):
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
+# Load embeddings and vector DB once at module level
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
 
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    FAISS_PATH = os.path.join(BASE_DIR, "faiss_index")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FAISS_PATH = os.path.join(BASE_DIR, "faiss_index")
 
-    vector_db = FAISS.load_local(
-        FAISS_PATH,
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
+vector_db = FAISS.load_local(
+    FAISS_PATH,
+    embeddings,
+    allow_dangerous_deserialization=True
+)
 
-    retriever = vector_db.as_retriever(search_kwargs={"k": 5})
+retriever = vector_db.as_retriever(search_kwargs={"k": 5})
 
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash",
-        temperature=0
-    )
+llm = ChatGoogleGenerativeAI(
+    model="gemini-2.5-flash",
+    temperature=0
+)
 
-    prompt = ChatPromptTemplate.from_template("""
+prompt = ChatPromptTemplate.from_template("""
 You are a real estate assistant.
 Answer ONLY using the provided property data.
 
@@ -52,14 +52,17 @@ Question:
 Answer:
 """)
 
-    chain = (
-        {
-            "context": retriever,
-            "question": RunnablePassthrough()
-        }
-        | prompt
-        | llm
-        | StrOutputParser()
-    )
+# Create chain once
+chain = (
+    {
+        "context": retriever,
+        "question": RunnablePassthrough()
+    }
+    | prompt
+    | llm
+    | StrOutputParser()
+)
 
+
+def ask(question: str):
     return chain.invoke(question)
