@@ -10,3 +10,4 @@ google-generativeai
 
 faiss-cpu
 sentence-transformers
+langchain-community
