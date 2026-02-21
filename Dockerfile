@@ -39,9 +39,12 @@ WORKDIR /app
 RUN apk add --no-cache libgomp && \
     rm -rf /var/cache/apk/*
 
-# Copy only necessary Python packages
+# Copy Python packages and ensure proper linking
 COPY --from=builder /usr/local/lib/python3.10/site-packages /usr/local/lib/python3.10/site-packages
 COPY --from=builder /usr/local/bin /usr/local/bin
+
+# Ensure PATH includes Python scripts directory
+ENV PATH="/usr/local/bin:${PATH}"
 
 # Copy application code
 COPY . .
@@ -56,4 +59,5 @@ RUN mkdir -p faiss_index && \
 
 EXPOSE 8000
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Use full path to uvicorn to ensure it's found
+CMD ["/usr/local/bin/uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
