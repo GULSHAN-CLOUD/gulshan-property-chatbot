@@ -1,9 +1,9 @@
-# Multi-stage build optimized for Railway deployment
+# Size-optimized multi-stage build for Railway
 FROM python:3.10-slim as builder
 
 WORKDIR /app
 
-# Install minimal system dependencies
+# Install minimal build dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     libgomp1 \
@@ -12,13 +12,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 # Copy requirements
 COPY requirements.txt .
 
-# Install Python packages with selective cleanup
+# Install with minimal bloat
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt && \
-    # Clean up only cache, keep site-packages intact
-    rm -rf /root/.cache
+    # Remove unnecessary files but keep core packages
+    find /usr/local/lib/python3.10/site-packages -name "tests" -type d -exec rm -rf {} + 2>/dev/null || true && \
+    find /usr/local/lib/python3.10/site-packages -name "test" -type d -exec rm -rf {} + 2>/dev/null || true && \
+    find /usr/local/lib/python3.10/site-packages -name "docs" -type d -exec rm -rf {} + 2>/dev/null || true && \
+    find /usr/local/lib/python3.10/site-packages -name "examples" -type d -exec rm -rf {} + 2>/dev/null || true && \
+    find /usr/local/lib/python3.10/site-packages -name "*.dist-info" -exec rm -rf {} + 2>/dev/null || true && \
+    rm -rf /root/.cache /tmp/*
 
-# Production stage - minimal runtime
+# Production stage - optimized runtime
 FROM python:3.10-slim
 
 WORKDIR /app
@@ -28,16 +33,20 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libgomp1 \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy installed packages from builder stage
+# Copy only the essential Python packages
 COPY --from=builder /usr/local/lib/python3.10/site-packages /usr/local/lib/python3.10/site-packages
 
 # Copy application code
 COPY . .
 
-# Create necessary directories
-RUN mkdir -p faiss_index
+# Create directories and final cleanup
+RUN mkdir -p faiss_index && \
+    # Remove Python cache files
+    find . -name "*.pyc" -delete && \
+    find . -name "__pycache__" -type d -exec rm -rf {} + 2>/dev/null || true && \
+    # Remove unnecessary documentation
+    find /usr/local/lib/python3.10/site-packages -name "README*" -delete 2>/dev/null || true
 
 EXPOSE 8000
 
-# Use python module approach to ensure uvicorn is found
 CMD ["python", "-m", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
